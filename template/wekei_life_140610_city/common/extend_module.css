@@ -1,0 +1,28 @@
+/* ----------------------------------
+自定义或重定义 默认 module.css 文件相关属性
+css  file for Discuz! X3 系列
+
+【未来科技】 
+http://www.wekei.cn
+专注于 Discuz模板开发设计等服务。
+详情请 查 看www.wekei.cn
+或咨询 客服 QQ 1508085698 1595675868
+
+Author: Veikei
+Created Time: 2012-09-05
+Modified Time: 2014-01-25
+Update Time: 2014-05-12
+
+---------------------------------- */
+
+
+
+/** forum::index,forum::forumdisplay,group::index,group::group,search::group **/
+.fl {}
+
+/* .fl limit */
+.fl .bm_h { height:40px; line-height:40px; border-color:#ccc; box-shadow: 0 1px 0 #eee; background: #f2f2f2 ; } 
+	.fl .bm_h h2 a { font-size:16px; color:#333; }
+
+/** end **/
+
